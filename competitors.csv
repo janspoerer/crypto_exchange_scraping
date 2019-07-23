@@ -2,10 +2,8 @@ name,country_name,year,employees
 Abide Financial,UK,2013,51-200
 April Software,Luxembourg,2015,1-10
 Arkk Solutions,UK,2009,11-50
-Axioma Inc.,UK,1998,51-200
 Bearingpoint,Netherlands,2002,200+
 Cappitech,Israel,2013,11-50
-Catena Technologies,Singapore,2002,11-50
 Commcise,UK,2013,11-50
 Cxi,Australia,2015,11-50
 DeltaconX,Switzerland,N/A,1-10
@@ -18,7 +16,6 @@ Indagia,Switzerland,2018,1-10
 Kaizen Reporting,UK,2013,11-50
 Logical Construct,USA,2014,1-10
 Lombard Risk,UK,1989,200+
-Merlon Intelligence,USA,2016,11-50
 MindBridge Ai,Canada,2015,51-200
 Moneycatcha Pty Ltd,UK,2015,11-50
 Nadi Solutions,UK,2013,11-50
@@ -27,15 +24,12 @@ QuanTemplate,Gibraltar,2011,11-50
 REGIS-TR,Luxembourg,2010,51-200
 RegTek Solutions,USA,2017,11-50
 Reitigh Software,Ireland,2016,1-10
-Shield FC,Israel,2017,11-50
 Taleo Reporting,Luxembourg,2015,1-10
-TRAction Fintech,UK,2015,1-10
 TRADEcho,UK,2016,51-200
 TransFICC,UK,2016,1-10
 Treamo,Austria,2010,1-10
 "UnaVista, London Stock Exchange Group",UK,2007,51-200
 Vizor,Ireland,2001,51-200
-360factors,USA,2012,11-50
 AlgoDynamix,UK,2013,1-10
 Algorithmica,Sweden,1993,11-50
 AlgoSave,Israel,2015,1-10
@@ -44,7 +38,7 @@ AuditComply,UK,2014,11-50
 Ayasdi,USA,2008,200+
 CloudMargin,UK,2013,11-50
 ClusterSeven,UK,2003,11-50
-Corlytics,Ireland,2014,11-50
+Corlytics,USA,2014,11-50
 Credit Benchmark,UK,2012,11-50
 CrowdCheck,USA,2012,11-50
 Datarama,Singapore,2015,11-50
@@ -72,7 +66,6 @@ Secondfloor,Netherlands,2005,51-200
 Swissmetrics,Switzerland,2014,1-10
 Sybenetix,UK,2009,11-50
 Symetrics,Netherlands,2012,11-50
-Symlogik,Italy,2018,11-50
 ThoughtRiver,Singapore,2009,11-50
 Traiana,USA,2000,200+
 TickSmith,Canada,2012,11-50
@@ -90,7 +83,7 @@ BehavioSec,Sweden,2008,11-50
 Chaordic,Switzerland,2017,11-50
 ComplyAdvantage,UK,2014,51-200
 Contego,UK,2011,11-50
-Cynopsis Solutions,Singapore,2014,1-10
+Cynopsis Solutions,UK,2014,1-10
 Digital Reasoning,USA,2000,51-200
 DueDil,UK,2011,51-200
 EarlyIQ,USA,2012,1-10
@@ -133,7 +126,6 @@ PASS,UK,2016,11-50
 PassFort,UK,2015,1-10
 Planet of Finance,Monaco,2009,11-50
 Precognitive,USA,2016,1-10
-RDC,USA,2002,200+
 Risk Ident,Germany,2012,11-50
 Riskifier,Switzerland,2017,1-10
 SecureFact,Canada,1995,11-50
@@ -151,7 +143,6 @@ Trax Print,Australia,2016,1-10
 Trulioo,Canada,2011,11-50
 Trunomi,USA,2014,11-50
 Ume,Luxembourg,2017,1-10
-Vadis Technologies,Belgium,2018,11-50
 8of9,USA,2009,11-50
 Abside RegTech,Spain,1999,200+
 Aesthetic Integration,UK,2014,11-50
@@ -196,7 +187,6 @@ Datactics,UK,2007,11-50
 DerivativesTech,Germany,2015,11-50
 DHC Business Solutions,Germany,2011,11-50
 Digital Insight,UK,2018,1-10
-Dilisense,Switzerland,2019,1-10
 Dome9,USA,2011,51-200
 Droit,USA,2012,11-50
 Drooms,Germany,2001,51-200
@@ -222,13 +212,10 @@ Helm,USA,2015,1-10
 Iconicchain,Finland,2017,1-10
 Idisclose,USA,2015,1-10
 InfoGnosis Pte Ltd,Singapore,2016,11-50
-Inspirient,Ireland,2016,1-10
-IntegrityNext,Germany,2016,11-50
 KeeSystem,Monaco,2009,1-10
 Key2Control,Netherlands,2013,11-50
 Kharon,USA,2017,11-50
 Lawson Conner Services Ltd,UK,2010,51-200
-LogSentinel,Netherlands,2017,1-10
 Lucsan,Australia,1999,11-50
 MetricStream,USA,1999,200+
 MJ Freeway,USA,2010,51-200
@@ -238,11 +225,9 @@ Neurensic,USA,2015,11-50
 Patch Vantage,Scotland,2016,1-10
 PaymentComponents,UK,2014,11-50
 Pole Star,UK,1998,51-200
-PrivacyCheq,USA,2014,11-50
 Quantexa,UK,2016,11-50
 Quarule,USA,2014,1-10
 Qumram,Switzerland,2011,11-50
-Redland,UK,2001,11-50
 Red Marker,Australia,2015,1-10
 Reg UK,UK,2013,11-50
 RegBot,Ireland,2014,1-10
@@ -254,14 +239,13 @@ RequirementONE,US,2015,11-50
 RiskSave,UK,2015,1-10
 Safescribe,UK,2015,1-10
 Seqvoia,Luxembourg,2012,11-50
-Smart Oversight,Luxembourg,2017,1-10
 Strytex,Australia,2017,1-10
 Suade,UK,2014,11-50
 TAINA Technology Limited,UK,2016,11-50
 targens GmbH,Germany,2006,200+
 Telemessage,USA,1999,51-200
 TheMarketsTrust,Luxembourg,2013,11-50
-Signarus,UK,2018,1-10
+The RegTech Company,UK,2018,1-10
 Theta Lake,USA,2017,11-50
 Tillr,UK,2015,11-50
 Trust-hub,UK,2016,11-50
@@ -279,7 +263,6 @@ Alto,Luxembourg,2009,1-10
 Ancoa,UK,2010,11-50
 AppZen,USA,2012,11-50
 b-next,Germany,1989,51-200
-Beam Solutions,USA,2016,11-50
 Blockpit,Austria,2017,11-50
 Chainalysis,USA,2014,11-50
 Clarus,Israel,2016,11-50
